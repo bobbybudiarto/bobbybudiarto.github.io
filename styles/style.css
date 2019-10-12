@@ -1,0 +1,36 @@
+/* Start Body */
+body {
+    background-color: rgb(174, 245, 133);
+       color: #24292e;
+       font-family: Helvetica, Arial, sans-serif;
+       font-size: 16px;
+       line-height: 1.5em;
+       padding: 0;
+       background-image: url(../images/bg1.jpg);
+}
+/* End Body */
+/* Start Debug */
+.bg-blue {
+background-color: blue;
+}
+
+.bg-red {
+    background-color: red;
+    }
+/* End Debug */
+
+/* Start Jumbotron */
+.jumbotron {
+    background: red;
+    background-image: url("../images/bg1.jpg");
+}
+/* End Jumbotron */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+
+/* End Container */
